@@ -1,4 +1,3 @@
-  GNU nano 4.9                                                                                      bubblesort.sh
 #!/bin/bash
 echo "enter maximum number"
 read n
